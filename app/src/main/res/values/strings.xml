@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Alfamind</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="sportpersoning">SPORTSPERSON</string>
+    <string name="sportperson">We play sports, we watch sports, and we talk about it, Cricketer, Footballer, If you are a sportsperson then bonjour is a nice place for you !></string>
+    <string name="sport">sport</string>
+    <string name="travelling">TRAVELLER</string>
+    <string name="travel">travel</string>
+    <string name="photographing">PHOTOGRAPHER</string>
+    <string name="cameraman">The best thing about a picture is that it never changes, even when the people in it do. If photgraphy is your passion then bonjour is a nice place for you !</string>
+    <string name="traveler">It doesn’t matter if you’re interested in budget travel, luxury travel, adventure travel, if you are a traveller then bonjour is a nice place for you !</string>
+    <string name="opening">opening</string>
+    <string name="tab_1">Lantai 1</string>
+    <string name="tab_2">Lantai 2</string>
+    <string name="tab_3">Lantai 3</string>
+    <string name="tab_4">Lantai 4</string>
+
+    <string name="home">Belanja</string>
+    <string name="notifications">Notifications</string>
+    <string name="aktivitas">Aktivitas</string>
+    <string name="highlight">Highlight</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="keranjang">Keranjang</string>
+
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
